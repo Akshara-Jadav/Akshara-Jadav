@@ -6,7 +6,7 @@
 
 B.Tech in Electronics & Communication Engineering (2026) from Guru Nanak Institute of Technology, Hyderabad — CGPA 8.73. I like building things that turn raw data into useful decisions, and I'm currently job-hunting for roles in Data Analytics, AI/ML, and Software Development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/akshara-jadav-304282257))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshara-jadav-304282257)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:jadavakshara29@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Jadavakshara)
 

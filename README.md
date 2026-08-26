@@ -16,7 +16,7 @@ B.Tech in Electronics & Communication Engineering (2026) from Guru Nanak Institu
 
 | Domain | Stack |
 |---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-blue?logo=python) ![SQL](https://img.shields.io/badge/SQL-grey) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-blue?logo=python)(https://github.com/Jadavakshara/Python-Practice) ![SQL](https://img.shields.io/badge/SQL-grey) |
 | **Data & AI/ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c) |
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-VPC-orange?logo=amazonaws&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-red?logo=git) ![Salesforce](https://img.shields.io/badge/Salesforce-AI_Agent-00A1E0?logo=salesforce&logoColor=white) |

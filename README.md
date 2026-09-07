@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+AI%2FML+Enthusiast;Python+%7C+SQL+%7C+AWS;Turning+Data+Into+Decisions" alt="Typing SVG" />
 
-# Hi, I'm Jadav Akshara 👋
+# Hi, I'm Akshara Jadav 👋
 
 ### Data Scientist | AI/ML & Data Analytics | Python Developer
 

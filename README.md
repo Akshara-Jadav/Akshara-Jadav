@@ -27,6 +27,7 @@ B.Tech in Electronics & Communication Engineering (2026) from Guru Nanak Institu
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| 🛰️ **[Campus Lost & Found Matcher](https://github.com/Akshara-Jadav/lost-found-matcher)** | Developed a Campus Lost & Found application using FastAPI and Streamlit, featuring a weighted matching algorithm to identify lost and found items based on category, description, location, date and other attributes| Python, FastAPI, REST API, Pydantic, Streamlit, Pytest |
 | 🛰️ **[AI-Powered Autonomous Drone Navigation](https://github.com/Akshara-Jadav/drone-navigation-system)** | Autonomous drone navigation system using simulated flight control and computer vision for obstacle-aware path planning. | Python, PX4 SITL, MAVSDK, Gazebo, QGroundControl, IoT |
 | 🛍️ **Retail Sales Data Analysis** | Exploratory data analysis project uncovering sales trends and patterns to support business decision-making. | Python, Pandas, NumPy, Matplotlib |
 
